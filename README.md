@@ -18,10 +18,7 @@ Interactive Power BI dashboard analysing biomethane potential, cost, and carbon 
 
 **Skills:** Power BI, DAX, geospatial analytics, KPI design
 
-### 2. Municipal GHG Emissions Dashboard — Portugal
-Dashboard for municipal greenhouse gas emissions analysis, designed to support technical and non-technical stakeholders in monitoring progress toward climate neutrality targets.
-
-**Skills:** Power BI, DAX, KPI design municipal analytics
+### 2. Project loading...
 
 
 ## Ongoing learning 
