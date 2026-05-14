@@ -6,8 +6,11 @@ Hi there, I'm Francisco 👋
 ## Technical Skills
 
 **Analytics & BI:** Power BI, DAX, Excel, dashboard design, KPI development  
+
 **Programming:** Python - pandas, matplotlib, scikit-learn
+
 **Data Engineering:** ETL pipelines, PostgreSQL, relational modelling, data validation  
+
 **Other:** QGIS, Git, GitHub, Django REST Framework
 
 
