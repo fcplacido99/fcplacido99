@@ -1,6 +1,6 @@
 Hi there, I'm Francisco 👋
 
-**Data Analyst & Data Engineer** based in Lisbon. I do it all on the data lifecycle, from building Python ETL pipelines and writing SQL queries to designing executive dashboards.
+**Data Engineer** based in Lisbon. I do it all on the data lifecycle, from building Python ETL pipelines and writing SQL queries to designing executive dashboards.
 
 
 ## Technical Skills
